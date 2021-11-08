@@ -1,7 +1,8 @@
 # Calculadora de Inversión
 
-_Aplicación que permite calcular cual es la ganancia según la cantidad de plata a invertir, la TNA y los días _
-_Como resultado da la ganancia diaria y la total.
+_Aplicación que permite calcular cual es la ganancia según la cantidad de plata a invertir, la TNA y los días_
+<br>
+_Como resultado da la ganancia diaria y la tota._
 
 ## Comenzando 🚀
 
@@ -17,7 +18,7 @@ _El proyecto esta realizado en react-native y Expo, por lo tanto se necesita la 
 
 _Herramientas utilizadas_
 <p>
-<img height="20" alt="REACTNATIVE" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
+React Native <img height="20" alt="REACTNATIVE" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png">
 </p>
   
 ---
