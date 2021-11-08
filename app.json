@@ -1,9 +1,13 @@
 {
   "expo": {
-    "name": "cotizadorprestamos",
-    "slug": "cotizadorprestamos",
+    "name": "calculadorainversion",
+    "slug": "calculadorainversion",
     "version": "1.0.0",
     "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
@@ -23,7 +27,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.maesro.calculadoradeinversion"
     },
     "web": {
       "favicon": "./assets/favicon.png"
